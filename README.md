@@ -36,7 +36,7 @@ You counld get BTCV raw data from [here](https://www.synapse.org/#!Synapse:syn31
 ### WORD
 You counld get WORD raw data from this [repo](https://github.com/HiLab-git/LCOVNet-and-KD?tab=readme-ov-file#dataset).
 
-Put datasets file into $PROJECT_ROOT$/data.
+Put datasets file into PROJECT/data.
 
 ## Training and testing
 
